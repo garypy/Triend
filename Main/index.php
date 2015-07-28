@@ -1,5 +1,4 @@
 <?php
-Test for: Commit from SourceTree
 /**
  * CodeIgniter
  *
