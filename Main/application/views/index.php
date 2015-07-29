@@ -36,8 +36,8 @@
 <div class="banner">
   <div class="container">
     <div class="header-text">
-      <h2>Lorem ipsum dolor sit amet</h2>
-      <p class="small-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+      <h2>Focus on big data and data processing</h2>
+      <p class="small-text">Triend's background is infortion processing. which includes NLP (nature language processing), data mining, statistical computing etc. It can help you/your company to get better profit and performance with our products.</p>
       <div class="button-section"> <a href="#" class="top-button">More Info</a> </div>
     </div>
   </div>
@@ -56,22 +56,22 @@
       <ul>
         <li>
           <div class="feature-icon icon1"></div>
-          <h4>Autenrm nusquam</h4>
+          <h4>Data(Opinion) Mining</h4>
           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
         </li>
         <li>
           <div class="feature-icon icon2"></div>
-          <h4>Alterum docendi</h4>
+          <h4>Statistical Model</h4>
           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
         </li>
         <li>
           <div class="feature-icon icon3"></div>
-          <h4>Graece praesent</h4>
+          <h4>Build high performance websites</h4>
           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
         </li>
         <li>
           <div class="feature-icon icon4"></div>
-          <h4>Vocent scaevola</h4>
+          <h4>IOS Android development</h4>
           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
         </li>
         <li>
